@@ -19,7 +19,7 @@ You can install `iwlist` by running:
 sudo apt-get update
 sudo apt-get install wireless-tools
 
-
+```
 ===== Real-Time Network Traffic =====
 Download Speed: 100.5 KB/s
 Upload Speed:   45.2 KB/s
